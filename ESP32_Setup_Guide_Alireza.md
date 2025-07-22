@@ -149,8 +149,6 @@ If you face this problem, try using the updated "csi_component" file available i
 With these updates and proper configurations, ensure you enable the CSI option in menuconfig under Component
 Config > Wi-Fi > CSI. Missing this step will prevent you from collecting CSI data effectively.
 
-## 📸 CSI Data Sample
-Here is an actual sample screenshot of CSI data received on the ESP32 console:
 
 ## ✅ Conclusion
 This guide simplifies and fixes the ESP32 CSI setup process. It resolves all major obstacles I faced and improves on the original documentation provided in the CSI_Data_Gathering repository.
