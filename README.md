@@ -184,13 +184,13 @@ and press Enter to enable it. If CSI is not enabled here, you won't be able to c
 
 **Suspected cause:** The `main.cc` file or the menuconfig settings.
 
-**What I tried:** Updated `main.cc` to work with ESP-IDF v3.3.1, but the behavior persisted. The `main.cc` I used is available [here](TODO-add-link-to-main.cc). If you've hit and solved this issue, please open an issue or PR.
+**What I tried:** Updated `main.cc` to work with ESP-IDF v3.3.1, but the behavior persisted. The `main.cc` I used is available [here](https://drive.google.com/drive/folders/1NXOC2-Kxnw_jHQsJQr0jrXp51Le9iY4I). If you've hit and solved this issue, please open an issue or PR.
 
 ### Wi-Fi network not visible on some devices
 
 **Problem:** The AP wasn't visible on some devices.
 
-**Fix:** Use the updated `csi_component` file available [here](TODO-add-link-to-csi_component). Also double-check that CSI is enabled under `Component config > Wi-Fi > CSI`.
+**Fix:** Use the updated `csi_component` file available [here](https://drive.google.com/drive/folders/1NXOC2-Kxnw_jHQsJQr0jrXp51Le9iY4I). Also double-check that CSI is enabled under `Component config > Wi-Fi > CSI`.
 
 ## Summary
 
